@@ -12,3 +12,16 @@ html,body {
 :root {
   font-family: "Microsoft Yahei", Arial, Helvetica, sans-serif;
 }
+
+a,
+a:link,
+a:link,
+a:link,
+a:link {
+  color: inherit;
+  text-decoration: none;
+}
+
+ol,ul,li {
+  list-style: none;
+}
