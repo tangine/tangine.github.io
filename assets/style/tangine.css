@@ -34,3 +34,11 @@ main {
 .clickable {
   cursor: pointer;
 }
+
+.flex {
+  display: flex;
+}
+
+.grid {
+  display: grid;
+}
