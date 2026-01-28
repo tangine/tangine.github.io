@@ -15,4 +15,11 @@
 ## __论据、论证方法积累__
 
 ## 友情链接
-[如何学好申论](https://www.zhihu.com/question/29547043/answer/683768687)
+1. [人民日报](http://paper.people.com.cn/rmrb/paperindex.htm)
+2. [人民网教育](http://edu.people.com.cn/)
+3. [半月谈](http://www.banyuetan.org/)
+4. [SaDuck](https://saduck.top/)
+5. [QZZN公务员考试论坛](https://bbs.qzzn.com/)
+6. [申论大本营](http://shenlunhome.com/forum.php)
+7. [如何学好申论](https://www.zhihu.com/question/29547043/answer/683768687)
+
