@@ -1,39 +1,42 @@
-name: Deploy
+name: "Deploy to Pages"
+
 on:
   push:
-    branches:
-      - master
-      - main
+    branches: [main]
+  # 可选：允许手动触发
   workflow_dispatch:
+
+
+# 设置工作流权限
 permissions:
   contents: write
   pages: write
   id-token: write
 
 jobs:
-  deploy:
+  build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Configure Git Credentials
-#        run: |
-#          git config user.name github-actions[bot]
-#          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-#
-      - name: Setup python
-      - uses: actions/setup-python@v5
+      - name: Checkout repository
+        uses: actions/checkout@v4
         with:
-          python-version: "3.x"
-#      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV
+          fetch-depth: 0
 
-      - name: Install Dependencies
-        run: pip install -r requirements.txt
+      # 2. 设置 Python 环境
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'  # 使用最新的 3.x 版本
 
-      - name: Build
-        run: mkdocs build
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
 
-#      - name: Deploy to Github Pages
-#        run: mkdocs gh-deploy --force
+      - name: Build documentation
+        run: |
+          mkdocs build
+
       - name: Deploy to Github Pages
         uses: peaceiris/actions-gh-pages@v4
         with:
