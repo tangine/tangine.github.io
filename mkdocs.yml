@@ -3,12 +3,15 @@ site_author: 汪承祥
 
 nav:
   - 首页: index.md
-  - 职业发展:
+  - Web前端开发:
     - CSS: career/css.md
     - JavaScript: career/javascript.md
     - Vue: career/vue.md
   - 经济金融:
       - 股市风云: finance/stock.md
+      - 日本蜡烛图技术: finance/kline.md
+      - 金融市场技术分析: finance/technical.md
+      - 量价分析: finance/volume.md
   - 公考笔记:
     - 政治理论: servant/politics.md
     - 常识判断: servant/horsesense.md
@@ -39,7 +42,7 @@ theme:
     - navigation.instant        # 即时加载页面
     - navigation.tracking       # 地址栏追踪锚点
     - navigation.indexes        # 分组主页
-    - navigation.footer
+#    - navigation.footer
 
     # 搜索功能
     - search.highlight          # 搜索高亮

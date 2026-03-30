@@ -30,3 +30,4 @@
 1. [Z2H 字帖制作](https://z2h.cn/hanzi)
 2. [Hello windows](https://hellowindows.cn/)
 3. [Material for MkDocs](https://wncfht.github.io/notes/Tools/Blog/Mkdocs_Material/)
+4. [Mkdocs部署至Github Pages教程](https://wcowin.work/Mkdocs-Wcowin/blog/Mkdocs/mkdocs1/#creating-your-site)

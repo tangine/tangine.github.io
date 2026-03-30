@@ -15,11 +15,11 @@
 ## __论据、论证方法积累__
 
 ## 友情链接
-1. [人民日报](http://paper.people.com.cn/rmrb/paperindex.htm)
-2. [人民网教育](http://edu.people.com.cn/)
-3. [半月谈](http://www.banyuetan.org/)
-4. [SaDuck](https://saduck.top/)
-5. [QZZN公务员考试论坛](https://bbs.qzzn.com/)
-6. [申论大本营](http://shenlunhome.com/forum.php)
-7. [如何学好申论](https://www.zhihu.com/question/29547043/answer/683768687)
-
+1. [人民日报](http://paper.people.com.cn/rmrb/paperindex.htm){target='_blank'}
+2. [人民网教育](http://edu.people.com.cn/){target='_blank'}
+3. [半月谈](http://www.banyuetan.org/){target='_blank'}
+4. [SaDuck](https://saduck.top/){target='_blank'}
+5. [QZZN公务员考试论坛](https://bbs.qzzn.com/){target='_blank'}
+6. [申论大本营](http://shenlunhome.com/forum.php){target='_blank'}
+7. [如何学好申论](https://www.zhihu.com/question/29547043/answer/683768687){target='_blank'}
+8. [视频资料](https://pan.quark.cn/s/3cfcf93756ed){target='_blank'}
