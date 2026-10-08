@@ -33,5 +33,5 @@ jobs:
         uses: peaceiris/actions-gh-pages@v4
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_dir: ./doc_build # Rspress 默认输出目录
+          publish_dir: ./dist # Rspress 默认输出目录
           publish_branch: gh-pages
