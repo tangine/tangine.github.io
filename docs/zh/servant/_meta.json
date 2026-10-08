@@ -1,0 +1,12 @@
+[
+  {
+    "type": "dir-section-header",
+    "name": "politics",
+    "label": "政治理论"
+  },
+  {
+    "type": "dir-section-header",
+    "name": "lalognosis",
+    "label": "言语理解与表达"
+  }
+]

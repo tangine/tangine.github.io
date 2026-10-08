@@ -1,0 +1,17 @@
+[
+  {
+    "type": "file",
+    "name": "history",
+    "label": "中国共产党党史"
+  },
+  {
+    "type": "file",
+    "name": "innovation",
+    "label": "党的创新理论"
+  },
+  {
+    "type": "file",
+    "name": "policy",
+    "label": "党和国家政策方针"
+  }
+]

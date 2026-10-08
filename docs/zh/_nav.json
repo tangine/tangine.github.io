@@ -1,0 +1,17 @@
+[
+  {
+    "text": "公务员考试",
+    "link": "/servant/politics/history",
+    "activeMatch": "/servant/"
+  },
+  {
+    "text": "Web开发",
+    "link": "/web/html",
+    "activeMatch": "/web"
+  },
+  {
+    "text": "其它",
+    "link": "/other/collection",
+    "activeMatch": "/other/"
+  }
+]
