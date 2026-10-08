@@ -1,0 +1,22 @@
+[
+  {
+    "type": "file",
+    "name": "math",
+    "label": "高等数学"
+  },
+  {
+    "type": "file",
+    "name": "algebra",
+    "label": "线性代数"
+  },
+  {
+    "type": "file",
+    "name": "probability",
+    "label": "概率论与数理统计"
+  },
+  {
+    "type": "file",
+    "name": "principle",
+    "label": "经济学原理"
+  }
+]
