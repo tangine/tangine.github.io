@@ -9,10 +9,10 @@ hero:
   actions:
     - theme: brand
       text: 快速开始
-      link: /zh/guide/start/introduction
+      link: /zh/web/html
     - theme: alt
       text: GitHub
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/tangine/tangine.github.io
   image:
     src: /rspress-icon.png
     alt: Logo
