@@ -8,5 +8,11 @@
     "type": "file",
     "name": "bajiang",
     "label": "申论写作八讲"
+  },
+  {
+    "type": "file",
+    "name": "question",
+    "label": "常见对策、措施"
   }
 ]
+
