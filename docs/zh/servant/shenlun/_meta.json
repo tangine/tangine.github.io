@@ -3,5 +3,10 @@
     "type": "file",
     "name": "gaikuo",
     "label": "归纳概论"
+  },
+  {
+    "type": "file",
+    "name": "bajiang",
+    "label": "申论写作八讲"
   }
 ]
